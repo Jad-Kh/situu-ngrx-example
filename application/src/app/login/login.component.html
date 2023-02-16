@@ -1,0 +1,5 @@
+<div class="screen">
+    <button (click)="login()">Click me to Log in!</button>
+    <p *ngIf="username">Your username is {{username}}</p>
+    <button *ngIf="username" (click)="navigate()">Click me to get out of here!</button>
+</div>

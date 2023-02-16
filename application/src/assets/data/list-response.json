@@ -1,0 +1,87 @@
+[
+    {
+        "title": "List 1",
+        "records": [
+            {
+                "id": 1,
+                "description": "This is record 1 of List 1",
+                "quantity": 50
+            },
+            {
+                "id": 2,
+                "description": "This is record 2 of List 1",
+                "quantity": 75
+            },
+            {
+                "id": 3,
+                "description": "This is record 3 of List 1",
+                "quantity": 25
+            },
+            {
+                "id": 4,
+                "description": "This is record 4 of List 1",
+                "quantity": 50
+            },
+            {
+                "id": 5,
+                "description": "This is record 5 of List 1",
+                "quantity": 50
+            },
+            {
+                "id": 6,
+                "description": "This is record 6 of List 1",
+                "quantity": 75
+            }
+        ]
+    },
+    {
+        "title": "List 2",
+        "records": [
+            {
+                "id": 1,
+                "description": "This is record 1 of List 2",
+                "quantity": 25
+            },
+            {
+                "id": 2,
+                "description": "This is record 2 of List 2",
+                "quantity": 25
+            },
+            {
+                "id": 3,
+                "description": "This is record 3 of List 2",
+                "quantity": 25
+            }
+        ]
+    },
+    {
+        "title": "List 3",
+        "records": [
+            {
+                "id": 1,
+                "description": "This is record 1 of List 3",
+                "quantity": 75
+            },
+            {
+                "id": 2,
+                "description": "This is record 2 of List 3",
+                "quantity": 25
+            },
+            {
+                "id": 3,
+                "description": "This is record 3 of List 3",
+                "quantity": 50
+            },
+            {
+                "id": 4,
+                "description": "This is record 4 of List 3",
+                "quantity": 50
+            },
+            {
+                "id": 5,
+                "description": "This is record 5 of List 3",
+                "quantity": 75
+            }
+        ]
+    }
+]
